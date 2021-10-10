@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+header{
+    height: 80px;
+    display: flex;
+    border-bottom: 1px solid #eee;
+}
+.div-logo{
+    width: 160px;
+    background-image: url(/assets/apple-icon-180x180.png);
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: right;
+    transform: rotatex(180deg);
+}
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+}
+nav a{
+    text-decoration: none;
+    color: gray;
+    padding: 30px 15px 0;
+}
+nav a:hover{
+    color: black;
+}
+.download{
+    padding-top: 17px;
+    padding-right: 86px;
+}
+div.download button{
+    width: 90px;
+    height: 43px;
+    color: white;
+    background-color: rgb(120, 80, 255);
+    border: none;
+    cursor: pointer;
+}
+div.download button:hover{
+    background-color: blue;
+}
+/* .div-background{
+
+} */
+/* .opacidad{
+    opacity: 0.2;
+} */
+/* .inherit-forced{
+    color: inherit;
+} */
