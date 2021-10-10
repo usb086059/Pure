@@ -1,1 +1,3 @@
-
+- Descargar el archivo pure.zip
+- Descomprimir para ver la plantilla original.
+- La meta es conseguir hacer una plantilla lo mas parecida posible usando lo que se va aprendiendo de HTML y CSS.
